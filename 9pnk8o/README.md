@@ -11,3 +11,10 @@ This requires [Power Query](https://support.office.com/en-us/article/introductio
 Result should look something like this
 
 ![screenshot](screenshot.png).
+
+Updated 2018-10-24:
+
+* Added tolerance for duplicated column names in blocks 4, 5, and 6 (example in input2 directory). If duplicate column names are found in those blocks, the new columns will be renamed with an incremental index (AG<###2###> & AG<###3###> in the example below) 
+
+ ![screenshot](screenshot2.png)
+ 
