@@ -4,7 +4,7 @@ A solution to [Power Pivot - Rollup new data into categories upon each refresh :
 
 Download the file [here](https://github.com/tirlibibi17/r_excel-stuff/raw/master/9tdwkv/Incremental%20Vendor%20Map.xlsx).
 
-[This video](https://github.com/tirlibibi17/r_excel-stuff/raw/master/9tdwkv/demo.mp4) shows how it works:
+[This video](https://streamable.com/swrug) shows how it works:
 
 * the transaction table is updated with a purchase from a new vendor
 * refreshing all shows a blank category in the enriched transaction table
