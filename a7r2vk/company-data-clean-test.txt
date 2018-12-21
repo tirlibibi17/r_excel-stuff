@@ -1,0 +1,112 @@
+COMPANY 1                           TAX YEAR:  2017
+
+TaxJ     Jur. Name                  Employees      Withheld      Earnings
+-------- ------------------------- ---------- ------------- -------------
+111111   BLUE CITY                          1        886.99     45,105.00
+
+                         TOTALS          1          886.99         45,105.00
+
+
+COMPANY 2                           TAX YEAR:  2017
+
+TaxJ     Jur. Name                  Employees      Withheld      Earnings
+-------- ------------------------- ---------- ------------- -------------
+111111   OLD BUSTLE CITY                    1          4.69        914.99
+111119   BLUEGREEN TWP                     98      4,406.05    551,995.60
+111113   SNOWY CITY                         1        408.14     95,085.16
+950901   BLUE CITY                         33      6,994.10    645,354.09
+950601   PURPLE BORO                        9 -        8.59      5,641.48
+950603   FOUR CITY BORO                     1         66.68      5,651.00
+950504   TURTLE BORO                        1        413.89     94,583.11
+951909   ONION CITY BORO                    9        999.40     18,868.09
+950404   ANTELOPES BORO                     9        334.48     98,340.58
+951301   TIGER TWP                          1        669.09     56,106.90
+950103   SNOWMAN TWP                        1        869.85     64,654.14
+951109   EGGPLANT TWP                       5      9,043.64    145,498.10
+951104   BIRD DOGS TWP                      1         99.18      1,849.99
+950301   GIRAFFES TWP                       6      5,815.14    345,383.19
+950509   TIGERPAW TWP                       1        614.88     59,104.14
+950609   PURPLE TWP                         6      1,354.00    114,993.96
+951309   FOREST TWP                         5      9,034.34    164,304.46
+951303   BROWNTREES TWP                     8      3,914.40    953,944.44
+950401   ORANGEGREEN TWP                   19      4,198.10    518,900.34
+950401   AN APPLE TOWNSHIP                  1        643.05     54,494.50
+950503   TURTLE TWP                         3      1,590.04    114,081.69
+951009   SOUTH WEST TWP                     4      9,836.04    941,001.04
+951106   JELLYFISHER TWP                    4      9,398.59    144,456.60
+950403   ORANGE TWP (BLUE)                  4        411.00     38,589.86
+951903   ONION TWP                          1        954.41     91,839.95
+951304   TURKEYS TWP                        4      1,939.94    163,431.48
+950505   STICKYSYRUP TWP                    1        660.90     55,949.44
+950405   ANTELOPES TWP                      4      1,649.09    119,046.06
+950106   CHICK TWP                          1        403.99     59,595.94
+900119   TURKEYTROT BORO                    1        343.60     31,661.99
+900104   EGGPLANTVILLE BORO                 1         99.66      1,918.86
+900906   CHICKEN TWP                        1         49.49      6,160.33
+950104   ELEPHANT TWP                       1        365.05     30,930.31
+900114   ORANGE TWP (POTATOES)              1         53.64      9,949.80
+430103   BUNNY TWP                          9         34.59      3,148.99
+900113   SPRINGSNOW TWP                     1        608.41     51,589.84
+690114   ICECREAM TWP                       1        156.56     13,969.88
+900404   NO IDEAS TWP                       3        644.11     54,583.90
+900101   SISTER TWP                         1         48.10      4,046.16
+160303   BLUEGREEN TWP                      1          5.14        435.84
+900908   MORE BEER TWP                      3        456.41     45,518.49
+490501   PIGVILLE TWP                       1 -       96.05      9,904.99
+900108   SOUTH VEGETABLE TWP                1         96.05      9,904.99
+430409   EAST ELEPHANT FOOT TWP             1          9.54        914.99
+650909   TRICKY PUG TWP                     1         40.18           .00
+900905   ONION TOWNSHIP                     9 -       90.99      6,349.35
+900416   TURKEYS TOWNSHIP                   9        463.33     64,689.39
+690116   MOUNTAIN TOWNSHIP                  1        990.06     18,649.06
+900418   SMARTBIRD TWP                      9        655.39     55,549.90
+900508   POLLUTION TWP (TURKEYS)            9        141.59     11,994.95
+160909   LOW HEAD TWP                       1          8.99        534.99
+880000   OUT OF STATE                       6      9,319.90    141,094.19
+
+                         TOTALS        184       59,899.40      4,413,469.94
+
+
+COMPANY 3                           TAX YEAR:  2017
+
+TaxJ     Jur. Name                  Employees      Withheld      Earnings
+-------- ------------------------- ---------- ------------- -------------
+950901   BLUEGREEN TWP                      5        698.80     59,911.01
+950901   BLUE CITY                         19      1,809.38    153,391.09
+950601   PURPLE BORO                        1          9.46        934.00
+950401   ORANGEGREEN TWP                    1        934.09     90,090.01
+950801   HIGHEST BARKS TWP                  1        991.58     94,413.04
+950403   ORANGE TWP (BLUE)                  1        939.89     90,391.69
+
+                         TOTALS         91        3,949.43        944,890.43
+
+
+
+
+COMPANY 4                           TAX YEAR:  2017
+
+TaxJ     Jur. Name                  Employees      Withheld      Earnings
+-------- ------------------------- ---------- ------------- -------------
+330301   BLANK TWP                          1         84.05      4,191.63
+950901   BLUEGREEN TWP                     30     19,500.45  1,059,348.49
+950104   SNOWY CITY                         1        499.19     41,405.96
+950901   BLUE CITY                         38      4,390.84    696,394.96
+950601   PURPLE BORO                        9         41.00     38,300.95
+950809   TROUTWATER BORO                    9        333.49     98,950.13
+951301   TIGER TWP                          9        989.45     31,940.15
+950301   GIRAFFES TWP                       3      1,009.69     85,540.94
+950609   PURPLE TWP                         1        369.14     31,984.08
+951309   FOREST TWP                         3      9,198.55    180,390.36
+951303   BROWNTREES TWP                     3        996.99     48,550.99
+950401   ORANGEGREEN TWP                    9      4,995.89    358,191.99
+950801   HIGHEST BARKS TWP                  1        163.38     13,846.34
+950401   AN APPLE TOWNSHIP                  1        530.83     44,984.80
+950503   TURTLE TWP                         1        699.94     58,493.45
+951009   SOUTH WEST TWP                     1        930.88     19,565.35
+951304   TURKEYS TWP                        1        340.38     31,384.40
+950505   STICKYSYRUP TWP                    1          6.93        584.95
+950405   ANTELOPES TWP                      4      1,444.08    195,180.39
+990000   UNKNOWN                            1          4.44        630.00
+
+                         TOTALS        106       33,964.34      9,861,844.44
+
