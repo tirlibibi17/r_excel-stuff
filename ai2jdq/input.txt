@@ -1,0 +1,13 @@
+"Title1"
+Writter	"name_of_writter"
+Publisher	"name_of_publisher"
+Pages	"number_of_pages"
+Description	"summary"
+Tags	"genre1 genre2"
+
+"Title2"
+Writter	"name_of_writter"
+Publisher	"name_of_publisher"
+Pages	"number_of_pages"
+Description	"summary"
+Tags	"genre1 genre2"
