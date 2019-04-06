@@ -1,4 +1,4 @@
-# Excel Power Query Conditional Table based in another Table
+# Power Query - Determining grade based on points and a rules table
 
 A solution to [Excel Power Query Conditional Table based in another Table](https://www.reddit.com/r/excel/comments/b14nka/excel_power_query_conditional_table_based_in/)
 
