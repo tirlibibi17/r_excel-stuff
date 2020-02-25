@@ -10,4 +10,4 @@ Then go to the *Reformat* sheet, right-click inside the green table and select *
 
 Requirements: Windows, Excel 2016 or higher, or Excel 2010/2013 with the Power Query add-in installed.
 
-Note: this is based on my [PQ Template](https://github.com/tirlibibi17/excel-pq/tree/master/PQ%20Template) and uses the recently added RegexMatch function ^yay!
+Note: this is based on my [PQ Template](https://github.com/tirlibibi17/excel-pq/tree/master/PQ%20Template) and uses the recently added RegexMatch function (yay!)
